@@ -12,3 +12,4 @@ This repository's purpose is to analyze ACL injuries in competition versus pract
 ## Potential Uses
 You can use this data to look at the sports that have the highest injury numbers, and use those numbers to assess and create a plan of how to lower the numbers of injuries.
 ## Data Visualization
+![ACL Injuries Data Visualization](https://github.com/Seriouslyryann/ACL-Injuries-Amongst-Sports/assets/167792589/be5a28c5-e8bf-414c-a3f6-01214e42416c)
