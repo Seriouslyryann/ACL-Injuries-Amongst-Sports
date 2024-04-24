@@ -1,5 +1,5 @@
 # ACL-Injuries-Amongst-Sports
-This repository is looking at ACL injuries in competition versus practice in varying sports.
+This repository is looking at ACL injuries in competition versus practice in varying high school sports.
 
 ## Why Was this Repository Created?
 This repository was created for my English 105 project in Professor Goetzler's class.
