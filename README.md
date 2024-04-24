@@ -1,5 +1,7 @@
 # ACL-Injuries-Amongst-Sports
 This repository is looking at ACL injuries in competition versus practice in varying sports.
+## Why Was this Repository Created
+This repository was created for my English 105 project in Professor Goetzler's class.
 
 ## Repository's Provenance
 This data originated from a multisport comparison of ACL injuries in high school athletics from the [National Institute of Health](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3867093/).
