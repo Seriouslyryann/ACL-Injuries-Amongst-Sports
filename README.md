@@ -13,4 +13,8 @@ This repository's purpose is to analyze ACL injuries in competition versus pract
 ## Potential Uses
 You can use this data to look at the sports that have the highest injury numbers, and use those numbers to assess and create a plan of how to lower the numbers of injuries.
 ## Data Visualization
+Here is a visualization of ACL injuries in varying high school sports in practice, competition, and the total of both practice and competition ACL tears.
 ![ACL Injuries Data Visualization](https://github.com/Seriouslyryann/ACL-Injuries-Amongst-Sports/assets/167792589/be5a28c5-e8bf-414c-a3f6-01214e42416c)
+
+## To Get Started 
+To get started you can go to this repositories files and select the folder called data, in the is folder you should then select the 
