@@ -12,7 +12,7 @@ This repository's purpose is to analyze ACL injuries in competition versus pract
 You can use this data to look at the sports that have the highest injury numbers, and use those numbers to assess and create a plan of how to lower the numbers of injuries.
 
 ## To Get Started 
-To get started you can go to this repositories files and select the folder called Data, in the is folder you should then select the file that says English Project 3 and download this file to your computer, this is the dataset that we will be manipulatiing and analyzing. Once you have downloaded English Project 3, you then want to go to the file named coLab documentation, this file is going to go step by step to demonstrate how to code the data.
+To get started you can go to this repositories files and select the folder called data, in the is folder you should then select the file that says English Project 3 and download this file to your computer, this is the dataset that we will be manipulatiing and analyzing. Once you have downloaded English Project 3, you then want to go to the file named CoLabDocumentation.ipynb, this file is going to go step by step and demonstrate how to code the data to manipulate and analyze it.
 
 HAPPY CODING!
 
